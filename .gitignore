@@ -1,0 +1,5 @@
+.env
+.env.yaml
+
+cloud_sql_proxy
+db.sqlite3
